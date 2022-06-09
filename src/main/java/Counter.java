@@ -23,5 +23,14 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
+
+	public void increaseBy(int i) {
+	}
+
+    public void decreaseBy(int i) {
+    }
+
+    public void multiplyBy(int i) {
+    }
 	
 }
