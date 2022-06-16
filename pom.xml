@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.5-SNAPSHOT</version>
 
 <dependencies>
   <dependency>
@@ -11,7 +11,6 @@
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
 	</dependency>
 </dependencies>
-	
   <distributionManagement>
     <repository>
       <id>github</id>
@@ -19,7 +18,6 @@
       <url>https://maven.pkg.github.com/muhamadjibril123/Konfigurasi</url>
     </repository>
   </distributionManagement>
-	
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
